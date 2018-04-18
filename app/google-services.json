@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1036425413164",
+    "firebase_url": "https://azheimer-s-assistant.firebaseio.com",
+    "project_id": "azheimer-s-assistant",
+    "storage_bucket": "azheimer-s-assistant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036425413164:android:5f87ae4d2f7769fe",
+        "android_client_info": {
+          "package_name": "com.example.android.alzheimersassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036425413164-r8vcmbito1lgqoencvl1so30ecthb75m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.alzheimersassistant",
+            "certificate_hash": "03d963890cc04bdda404f699ad9d98e2548a4431"
+          }
+        },
+        {
+          "client_id": "1036425413164-5o6q1hmsqb8r8n4upuhfaqces0vdkd9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWJ2QaSwOa7zN58onsU84t1PsXiFl9isU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036425413164-5o6q1hmsqb8r8n4upuhfaqces0vdkd9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
